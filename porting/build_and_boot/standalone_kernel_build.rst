@@ -21,7 +21,7 @@ If you use a RPM based distro such as Mageia, you run::
 
     sudo urpmi gcc make glibc-devel bc bison \
     rootcerts cpio curl flex git kmod libopenssl-devel libncurses5 python3 \
-    unzip wget xz img2simg jq
+    unzip wget xz android-tools jq
 
 Setting up and configuring a device source
 ------------------------------------------
